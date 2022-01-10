@@ -136,7 +136,5 @@ class CrudController extends Controller
                     return Redirect::to("/crudempresas");
                 break;
             }
-            //print_r($_POST);
-            //[senha] => kjhd8y98 [empresa] => 2
         }
 }
